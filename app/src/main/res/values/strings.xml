@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Prj_01_SendDocs</string>
+
+    <string name="cadastro_clientes">Cadastro de Clientes</string>
+    <string name="cadastro_tipodoc">Cadastro de Tipos de Documento</string>
+    <string name="cadastro_usuarios">Cadastro de Usuários</string>
+
+    <string name="clientes">Clientes</string>
+    <string name="tipodocs">Tipo de Docs.</string>
+    <string name="departamentos">Departamentos</string>
+    <string name="usuarios">Usuários</string>
+    <string name="protocolos">Protocolos</string>
+    <string name="config">Configurações</string>
+
+
+    <string name="nav_drawer_username">Fernando Dutra</string>
+    <string name="nav_drawer_email">fernandoalvesdutra@hotmail.com</string>
+    <string name="nome">Nome</string>
+
+
+</resources>

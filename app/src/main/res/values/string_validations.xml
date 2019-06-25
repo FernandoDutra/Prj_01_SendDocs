@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Cadastros de Clientes -->
+    <string name="clienteactitivity_erro_nome_requerido">"Erro: Nome do Cliente é obrigatório!"</string>
+    <string name="clienteactitivity_erro_cpfcnpj_requerido">"Erro: CPF/CNPJ do Cliente é obrigatório!"</string>
+    <string name="clienteactitivity_erro_cpfcnpj_invalido">"Erro: CPF/CNPJ do Cliente é inválido!"</string>
+    <string name="clienteactitivity_erro_rgie_requerido">"Erro: RG/IE do Cliente é obrigatório!"</string>
+    <string name="clienteactitivity_erro_rgie_invalido">"Erro: IE do Cliente é inválido!"</string>
+    <string name="clienteactitivity_erro_cep_requerido">"Erro: Cep do cliente é obrigatório!"</string>
+    <string name="clienteactitivity_erro_endereco_requerido">"Erro: Endereço do Cliente é obrigatório!"</string>
+    <string name="clienteactitivity_erro_numero_requerido">"Erro: Número do Cliente é obrigatório!"</string>
+    <string name="clienteactitivity_erro_bairro_requerido">"Erro: Bairro do Cliente é obrigatório!"</string>
+    <string name="clienteactitivity_erro_cidade_requerido">"Erro: Cidade do cliente é obrigatório!"</string>
+    <string name="clienteactitivity_erro_estado_requerido">"Erro: Estado do cliente é obrigatório!"</string>
+    <string name="clienteactitivity_erro_telefone_requerido">"Erro: Telefone do cliente é obrigatório!"</string>
+
+    <!-- Pesquisa de Clientes -->
+    <string name="clientesearchactivity_nome_requerido">"Erro: Filtro necessário!"</string>
+
+    <string name="lista_de_clientes">"Lista de Clientes"</string>
+    <string name="editar_cliente">"Selecione um Cliente para Editar"</string>
+    <string name="excluir_cliente">"Selecione um Cliente para Excluir!"</string>
+
+    <!-- Pesquisa de Tipo de Documento -->
+    <string name="tipodocsearchactivity_nome_requerido">"Erro: Filtro necessário!"</string>
+
+    <string name="lista_de_tipodocs">"Lista de Tipo de Documentos"</string>
+    <string name="editar_tipodoc">"Selecione um Tipo de Documentos para Editar"</string>
+    <string name="excluir_tipodoc">"Selecione um Tipo de Documentos para Excluir!"</string>
+
+    <!-- Cadastros de Usuários -->
+    <string name="usuarioactitivity_erro_nome_requerido">"Erro: Nome do Usuário é obrigatório!"</string>
+    <string name="usuarioactitivity_erro_email_requerido">"Erro: E-Mail do Usuário é obrigatório!"</string>
+    <string name="usuarioactitivity_erro_senha_diferente">"Erro: Senhas incompatíveis!"</string>
+
+    <!-- Pesquisa de Usuários -->
+    <string name="usuarioactivity_nome_requerido">"Erro: Filtro necessário!"</string>
+
+    <string name="lista_de_usuarios">"Lista de Usuários"</string>
+    <string name="editar_usuario">"Selecione um Usuário para Editar"</string>
+    <string name="excluir_usuario">"Selecione um Usuário para Excluir!"</string>
+
+    <!-- Login de Acesso -->
+    <string name="loginactivity_erro_login_requerido">"Erro: Nome do Usuário é obrigatório!"</string>
+    <string name="loginactivity_erro_senha_requerido">"Erro: Senha do Usuário é obrigatória!"</string>
+    <string name="loginactivity_erro_credencial_inválida">"Erro: Credenciais Inválidas!"</string>
+
+</resources>

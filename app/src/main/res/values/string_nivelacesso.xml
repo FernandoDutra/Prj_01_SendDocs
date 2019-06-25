@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="nivelacesso_lista">Nível de Acesso do Usuário</string>
+
+    <string-array name="nivelacesso_arrays">
+        <item>CADASTRO/ENTREGADOR</item>
+        <item>CADASTRO</item>
+        <item>ENTREGADOR</item>
+    </string-array>
+
+
+</resources>

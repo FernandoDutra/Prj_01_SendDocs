@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_item_clientes"
+            android:checked="true"
+            android:title="@string/clientes" />
+        <item
+            android:id="@+id/nav_item_departamentos"
+            android:title="@string/departamentos" />
+        <item
+            android:id="@+id/nav_item_tipodocs"
+            android:title="@string/tipodocs" />
+        <item
+            android:id="@+id/nav_item_usuarios"
+            android:title="@string/usuarios" />
+        <item
+            android:id="@+id/nav_item_protocolos"
+            android:title="@string/protocolos" />
+    </group>
+</menu>

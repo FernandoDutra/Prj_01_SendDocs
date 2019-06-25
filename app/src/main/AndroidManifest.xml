@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="br.com.fernandodutra.prj_01_senddocs">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".activity.login.act001.LoginActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".activity.cliente.act001.ClienteActivity" />
+        <activity android:name=".activity.cliente.act003.ClienteSeachActivity" />
+        <activity android:name=".activity.tipodoc.act001.TipoDocActivity"/>
+        <activity android:name=".activity.tipodoc.act003.TipoDocSeachActivity"/>
+        <activity android:name=".activity.usuario.act001.UsuarioActivity"/>
+        <activity android:name=".activity.usuario.act003.UsuarioSearchActivity"/>
+   </application>
+
+</manifest>

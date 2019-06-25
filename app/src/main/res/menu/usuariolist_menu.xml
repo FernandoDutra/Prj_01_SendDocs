@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/usuariolist_item_cadastrar"
+        android:icon="@mipmap/ic_launcher_round"
+        android:title="Cadastrar"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/usuariolist_item_editar"
+        android:orderInCategory="100"
+        android:title="Editar"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/usuariolist_item_excluir"
+        android:orderInCategory="100"
+        android:title="Excluir"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/usuariolist_item_pesquisar"
+        android:icon="@mipmap/ic_launcher_round"
+        android:orderInCategory="100"
+        android:title="Pesquisar"
+        app:showAsAction="always" />
+
+</menu>

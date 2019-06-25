@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <drawable name="green_pressed_color">#C8E6C9</drawable>
+    <drawable name="green_selected_color">#4CAF50</drawable>
+
+</resources>
